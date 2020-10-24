@@ -1,6 +1,6 @@
 # Documentation Hicala
 
-## Description of Hicala Repositories
+## The Hicala documentation shows the description of all repositories and projects
 
-[View Wiki page]( https://github.com/hicala/documentation-hicala/wiki/Home)
+[View Wiki page for more detail]( https://github.com/hicala/documentation-hicala/wiki/Home)
 
