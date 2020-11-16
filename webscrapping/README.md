@@ -28,7 +28,7 @@
 
 Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
 
-1. https://github.com/hicala/scraping-workshop
+1. https://github.com/hicala/worldometers_covid19_app
 
    Data extraction from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer web site 
 
@@ -39,4 +39,17 @@ Once we grab elements, Python makes it easy to write the elements or relevant co
 The major concept with Beautiful Soup is that it allows you to access elements of your page by following the CSS structures, such as grabbing all links, all headers, specific classes, or more. It is a powerful library. Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
 
 The data I used came from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer. Reference:https://www.worldometers.info/coronavirus/#page-top
+
+1. https://github.com/hicala/worldometers_country_covid19_app
+
+   Data extraction from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer web site 
+   
+   ### Overview
+
+   I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+
+The major concept with Beautiful Soup is that it allows you to access elements of your page by following the CSS structures, such as grabbing all links, all headers, specific classes, or more. It is a powerful library. Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
+
+The data I used came from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer. Reference:https://www.worldometers.info/coronavirus/
+
 
