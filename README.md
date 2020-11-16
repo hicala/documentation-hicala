@@ -4,21 +4,21 @@
 
 Description of Hicala Repositories
 
-[Web scrapping](webscrapping/Web-scrapping.md)
+[Web scrapping](webscrapping/README.md)
 
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis. 
 
-[IIIF]( https://github.com/hicala/documentation-hicala/wiki/IIIF)
+[IIIF]( iiif/README.md)
 
 The International Image Interoperability Framework (IIIF, spoken as 'triple-I-eff') defines several application programming interfaces that provide a standardised method of describing and delivering images over the web, as well as "presentation based metadata"[1] (that is, structural metadata) about structured sequences of images. If institutions holding artworks, books, newspapers, manuscripts, maps, scrolls, single sheet collections, and archival materials provide IIIF endpoints for their content, any IIIF-compliant viewer or application can consume and display both the images and their structural and presentation metadata.
 
-[Data Cloud Deployment Compilation]( https://github.com/hicala/documentation-hicala/wiki/Data-Cloud-Deployment-Compilation)
+[Data Cloud Deployment Compilation]( Data-Cloud-Deployment-Compilation/README.md)
 
 Software deployment is all of the activities that make a software system available for use.
 
 The general deployment process consists of several interrelated activities with possible transitions between them. These activities can occur at the producer side or at the consumer side or both. Because every software system is unique, the precise processes or procedures within each activity can hardly be defined. Therefore, "deployment" should be interpreted as a general process that has to be customized according to specific requirements or characteristics.
 
-[Data Mining]( https://github.com/hicala/documentation-hicala/wiki/Data-Mining)
+[Data Mining]( Data-Mining/README.md)
 
 Data mining is a process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use. Data mining is the analysis step of the "knowledge discovery in databases" process, or KDD. Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.
 
