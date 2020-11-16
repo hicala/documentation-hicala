@@ -20,11 +20,23 @@
 
 1. https://github.com/hicala/scraping-workshop
 
-   [Spanish] Scraping workshop: documentación y scripts
+   Data extraction from a US stats web site 
 
    ### Overview
 
-   Taller de extracción automatizada de datos de páginas web
+   We used Beautiful Soup as the main tool. The major concept with Beautiful Soup is that it allows you to access elements of your page by following the CSS structures, such as grabbing all links, all headers, specific classes, or more. It is a powerful library.
 
-   Web scraping es una técnica que emplea diferentes tecnologías para extraer datos o información de una página web. Se usa para recoger datos sin  estructura y convertirlos en datos estructurados para posteriormente ser tratados en bases de datos u hojas de cálculo. El taller es una aproximación práctica al scraping con el objetivo de permitir a los asistentes el tratamiento de información útil para sus propios proyectos.
+Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
+
+1. https://github.com/hicala/scraping-workshop
+
+   Data extraction from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer web site 
+
+   ### Overview
+
+   I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+
+The major concept with Beautiful Soup is that it allows you to access elements of your page by following the CSS structures, such as grabbing all links, all headers, specific classes, or more. It is a powerful library. Once we grab elements, Python makes it easy to write the elements or relevant components of the elements into other files, such as a CSV, that can be stored in a database or opened in other software.
+
+The data I used came from Coronavirus Update from COVID-19 Virus Pandemic - Worldometer. Reference:https://www.worldometers.info/coronavirus/#page-top
 
