@@ -6,7 +6,7 @@
 
 1. https://github.com/hicala/news-classifier
 
-   News Classifier 
+   News Classifier
 
    ### Overview
 
