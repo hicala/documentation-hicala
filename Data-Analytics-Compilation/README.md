@@ -1,6 +1,6 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Data Analytics Compilation](images/Data-Analytics-Compilation.jpg)
+![Data Analytics Compilation]( images/Data-Analytics-Compilation.jpg)
 
 # Data Analytics Compilation
 
