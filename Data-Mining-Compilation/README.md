@@ -1,5 +1,7 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
+![Data Mining Compilation](images/Data-Mining-Compilation.jpg)
+
 # Data Mining Compilation
 
 1. https://github.com/hicala/news-classifier
