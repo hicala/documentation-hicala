@@ -71,3 +71,16 @@ The major concept with Beautiful Soup is that it allows you to access elements o
 The data I used came from Live Piracy & Armed Robbery Report 2020. Reference: https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-report
 
 
+1. https://github.com/hicala/nba_roster_analytic
+
+   Data extraction from a Atlanta Hawks Roster web site 
+   
+   ### Overview
+
+   This study is part of a serie of statistical analysis in the composition and salary earned by main and key players in the NBA.
+
+I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
+
+The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/nba/team/roster/_/name/atl/atlanta-hawks
+
+
