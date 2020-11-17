@@ -1,5 +1,6 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
+![IIIF](https://github.com/hicala/documentation-hicala/blob/main/images/iiif.jpg)
 
 # IIIF Repository
 
