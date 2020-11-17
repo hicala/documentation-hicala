@@ -38,7 +38,7 @@ An integrated development environment (IDE) is a software application that provi
 
 The boundary between an IDE and other parts of the broader software development environment is not well-defined; sometimes a version control system or various tools to simplify the construction of a graphical user interface (GUI) are integrated. Many modern IDEs also have a class browser, an object browser, and a class hierarchy diagram for use in object-oriented software development. 
 
-[Machine Learning Compilation]( https://github.com/hicala/documentation-hicala/wiki/Machine-Learning-Compilation)
+[Machine Learning Compilation]( Machine-Learning-Compilation/README.md)
 
 Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
 
