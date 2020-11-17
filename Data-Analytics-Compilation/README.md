@@ -1,10 +1,6 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-<<<<<<< HEAD
-![Data Analytics Compilation](blob/main/images/Data-Analytics-Compilation.jpg)
-=======
-![Data Analytics Compilation]( images/Data-Analytics-Compilation.jpg)
->>>>>>> de7d465a2ce2434ea08ed43e1c7bd57a7d73dd34
+![Data Analytics Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Data-Analytics-Compilation.jpg)
 
 # Data Analytics Compilation
 

@@ -1,6 +1,6 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Data Mining Compilation](images/Data-Mining-Compilation.jpg)
+![Data Mining Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Data-Mining-Compilation.jpg)
 
 # Data Mining Compilation
 
