@@ -13,3 +13,19 @@
    M3 is the obvious choice for Cloud Native companies looking to scale up their Prometheus based monitoring systems. M3 can be used as Prometheus Remote Storage and has 100% PromQL compatibility.
 
    M3 was originally developed at Uber in order to provide visibility into Uber’s business operations, microservices and infrastructure. With its ability to horizontally scale with ease, M3 provides a single centralized storage solution for all monitoring use cases.
+
+1. https://github.com/hicala/jaeger-operator
+
+   Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. 
+
+   ### Overview
+
+   The Jaeger Operator is an implementation of a Kubernetes Operator.
+
+1. https://github.com/hicala/jaeger-operator
+
+   Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. 
+
+   ### Overview
+
+   The Jaeger Operator is an implementation of a Kubernetes Operator.
