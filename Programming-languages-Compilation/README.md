@@ -97,3 +97,17 @@ For more information about the high level motivation for Pyro, check out our lau
    ### Overview
 
    A large number of use cases span beyond a single request-reply, require tracking of a complex state, respond to asynchronous events, and communicate to external unreliable dependencies. The usual approach to building such applications is a hodgepodge of stateless services, databases, cron jobs, and queuing systems. This negatively impacts the developer productivity as most of the code is dedicated to plumbing, obscuring the actual business logic behind a myriad of low-level details. Such systems frequently have availability problems as it is hard to keep all the components healthy.
+
+1. https://github.com/hicala/jaeger
+
+   CNCF Jaeger, a Distributed Tracing Platform.
+
+   ### Overview
+
+   Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing platform created by Uber Technologies and donated to Cloud Native Computing Foundation. It can be used for monitoring microservices-based distributed systems:
+
+    Distributed context propagation
+    Distributed transaction monitoring
+    Root cause analysis
+    Service dependency analysis
+    Performance / latency optimization
