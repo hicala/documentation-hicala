@@ -64,3 +64,13 @@ Thousands of different programming languages have been created, and more are bei
 
 The description of a programming language is usually split into the two components of syntax (form) and semantics (meaning). Some languages are defined by a specification document (for example, the C programming language is specified by an ISO Standard) while other languages (such as Perl) have a dominant implementation that is treated as a reference. Some languages have both, with the basic language defined by a standard and extensions taken from the dominant implementation being common. 
 
+[Uber Open Source]( Uber-Open-Source/README.md)
+
+Uber Technologies, Inc., commonly known as Uber, is an American company that offers vehicles for hire, food delivery (Uber Eats), package delivery, couriers, freight transportation, and, through a partnership with Lime, electric bicycle and motorized scooter rental. The company is based in San Francisco and has operations in over 900 metropolitan areas worldwide. It is one of the largest providers in the gig economy and is also a pioneer in the development of self-driving cars.
+
+Uber is estimated to have over 110 million monthly active users worldwide. In the United States, Uber has a 67% market share for ride-sharing and a 24% market share for food delivery. Uber has been so prominent in the sharing economy that the changes in industries as a result of it have been referred to as uberisation, and many startups have described their products as "Uber for X".
+
+Uber was originally seen as providing a cost-saving platform that matched car owners with empty seats to customers going to the same destination—true ride-sharing. The model then evolved, with dedicated drivers taking customers wherever they wanted.
+
+Like similar companies, Uber has been criticized for treatment of drivers as independent contractors, disruption of the taxicab business, and an increase of traffic congestion. When it was under the leadership of former CEO Travis Kalanick, the company was criticized for several unethical practices. 
+
