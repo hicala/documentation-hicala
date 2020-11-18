@@ -41,3 +41,18 @@ For an overview of everything that we offer, check out the component gallery.
    This repo houses all the assets used to build the Jaeger website, available at https://jaegertracing.io.
 
 The site is built with Hugo and hosted by Netlify.
+
+1. https://github.com/hicala/ludwig
+
+   Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code. 
+
+   ### Overview
+
+   Ludwig is a toolbox that allows users to train and test deep learning models without the need to write code. It is built on top of TensorFlow.
+
+To train a model you need to provide is a file containing your data, a list of columns to use as inputs, and a list of columns to use as outputs, Ludwig will do the rest. Simple commands can be used to train models both locally and in a distributed way, and to use them to predict new data.
+
+A programmatic API is also available to use Ludwig from Python. A suite of visualization tools allows you to analyze models' training and test performance and to compare them.
+
+Ludwig is built with extensibility principles in mind and is based on datatype abstractions, making it easy to add support for new datatypes as well as new model architectures.
+
