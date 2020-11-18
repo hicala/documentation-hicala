@@ -22,10 +22,13 @@
 
    The Jaeger Operator is an implementation of a Kubernetes Operator.
 
-1. https://github.com/hicala/jaeger-operator
+1. https://github.com/hicala/baseweb
 
-   Jaeger Operator for Kubernetes simplifies deploying and running Jaeger on Kubernetes. 
+   A React Component library implementing the Base design language 
 
    ### Overview
 
-   The Jaeger Operator is an implementation of a Kubernetes Operator.
+   Base Web provides a robust suite of components out of the box. These include complex, ready to use components such as the Datepicker and low-level composable primitives, such as Layer.
+
+For an overview of everything that we offer, check out the component gallery.
+
