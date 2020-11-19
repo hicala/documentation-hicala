@@ -109,10 +109,20 @@ For more information about the high level motivation for Pyro, check out our lau
 
    As on-the-ground microservice practitioners are quickly realizing, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability. It is simply an orders of magnitude larger problem to network and debug a set of intertwined distributed services versus a single monolithic application.
 
-1. https://github.com/hicala/jaeger-client-csharp
+1. https://github.com/hicala/jaeger-analytics-java
 
-   C# client (tracer) for Jaeger 
+   Data analytics pipeline and models for tracing data   
 
    ### Overview
 
-   As on-the-ground microservice practitioners are quickly realizing, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability. It is simply an orders of magnitude larger problem to network and debug a set of intertwined distributed services versus a single monolithic application.
+   Experimental repository with data analytics models, pipelines for Jaeger tracing data.
+
+Repository contains:
+
+    Graph trace DSL based on Apache Gremlin. It helps to write graph "queries" against a trace
+    Spark streaming integration with Kafka for Jaeger topics
+    Loading trace from Jaeger query service
+    Jupyter notebooks to run examples with data analytic models
+    Data analytics models, metrics based on tracing data
+    Grafana dashboards
+
