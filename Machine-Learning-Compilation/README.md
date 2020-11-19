@@ -72,3 +72,14 @@ The data I used came from Live Piracy & Armed Robbery Report 2020. Reference: ht
 I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 
 The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/nba/team/roster/_/name/atl/atlanta-hawks
+
+1. https://github.com/hicala/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+
+   A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.  
+
+   ### Overview
+
+   I will be updating this tutorials site on a daily basis adding all relevant topcis, including latest researches papers from internet such as arxiv.org, BIORXIV - Specifically Neuroscience to name a few.
+
+More importantly the applications of ML/DL/AI into industry areas such as Transportation, Medicine/Healthcare etc. will be something I'll watch with keen interest and would love to share the same with you.
+Finally, it is YOUR help I will seek to make it more useful and less boring, so please do suggest/comment/contribute!
