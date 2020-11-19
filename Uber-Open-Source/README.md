@@ -81,3 +81,11 @@ For more information about the high level motivation for Pyro, check out our lau
 
    A React component which makes it easy to create a directed graph editor without implementing any of the SVG drawing or event handling logic.
 
+1. https://github.com/hicala/jaeger-ui
+
+   Web UI for Jaeger    
+
+   ### Overview
+
+   Visualize distributed tracing with Jaeger.
+
