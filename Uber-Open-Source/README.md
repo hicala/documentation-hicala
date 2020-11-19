@@ -89,3 +89,30 @@ For more information about the high level motivation for Pyro, check out our lau
 
    Visualize distributed tracing with Jaeger.
 
+1. https://github.com/hicala/jaeger-client-java
+
+   Jaeger Bindings for Java OpenTracing API 
+
+   ### Overview
+
+   Jaeger's Tracing Instrumentation Library for Java
+
+    Intended to be used with Jaeger backend, but can also be configured to send traces to Zipkin.
+    Implements OpenTracing Java API.
+    Supports Java 1.6 and above
+
+1. https://github.com/hicala/jaeger-client-csharp
+
+   C# client (tracer) for Jaeger 
+
+   ### Overview
+
+   As on-the-ground microservice practitioners are quickly realizing, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability. It is simply an orders of magnitude larger problem to network and debug a set of intertwined distributed services versus a single monolithic application.
+
+1. https://github.com/hicala/jaeger-client-csharp
+
+   C# client (tracer) for Jaeger 
+
+   ### Overview
+
+   As on-the-ground microservice practitioners are quickly realizing, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability. It is simply an orders of magnitude larger problem to network and debug a set of intertwined distributed services versus a single monolithic application.
