@@ -73,3 +73,11 @@ Pyro was originally developed at Uber AI and is now actively maintained by commu
 
 For more information about the high level motivation for Pyro, check out our launch blog post. For additional blog posts, check out work on experimental design and time-to-event modeling in Pyro.
 
+1. https://github.com/hicala/react-digraph
+
+   A library for creating directed graph editors 
+
+   ### Overview
+
+   A React component which makes it easy to create a directed graph editor without implementing any of the SVG drawing or event handling logic.
+
