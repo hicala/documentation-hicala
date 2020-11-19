@@ -72,3 +72,42 @@ The data I used came from Live Piracy & Armed Robbery Report 2020. Reference: ht
 I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 
 The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/nba/team/roster/_/name/atl/atlanta-hawks
+
+1. https://github.com/hicala/pyro
+
+   Deep universal probabilistic programming with Python and PyTorch 
+
+   ### Overview
+
+   Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch. Notably, it was designed with these principles in mind:
+
+    Universal: Pyro is a universal PPL - it can represent any computable probability distribution.
+    Scalable: Pyro scales to large data sets with little overhead compared to hand-written code.
+    Minimal: Pyro is agile and maintainable. It is implemented with a small core of powerful, composable abstractions.
+    Flexible: Pyro aims for automation when you want it, control when you need it. This is accomplished through high-level abstractions to express generative and inference models, while allowing experts easy-access to customize inference.
+
+Pyro was originally developed at Uber AI and is now actively maintained by community contributors, including a dedicated team at the Broad Institute. In 2019, Pyro became a project of the Linux Foundation, a neutral space for collaboration on open source software, open standards, open data, and open hardware.
+
+For more information about the high level motivation for Pyro, check out our launch blog post. For additional blog posts, check out work on experimental design and time-to-event modeling in Pyro.
+
+1. https://github.com/hicala/cadence
+
+   Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. 
+
+   ### Overview
+
+   A large number of use cases span beyond a single request-reply, require tracking of a complex state, respond to asynchronous events, and communicate to external unreliable dependencies. The usual approach to building such applications is a hodgepodge of stateless services, databases, cron jobs, and queuing systems. This negatively impacts the developer productivity as most of the code is dedicated to plumbing, obscuring the actual business logic behind a myriad of low-level details. Such systems frequently have availability problems as it is hard to keep all the components healthy.
+
+1. https://github.com/hicala/jaeger
+
+   CNCF Jaeger, a Distributed Tracing Platform.
+
+   ### Overview
+
+   Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing platform created by Uber Technologies and donated to Cloud Native Computing Foundation. It can be used for monitoring microservices-based distributed systems:
+
+    Distributed context propagation
+    Distributed transaction monitoring
+    Root cause analysis
+    Service dependency analysis
+    Performance / latency optimization
