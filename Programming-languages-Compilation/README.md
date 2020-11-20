@@ -127,3 +127,11 @@ For more information about the high level motivation for Pyro, check out our lau
    ### Overview
 
    An easy way to unmarshall a Dictionary of attributes (which came from JSON, XML or just a NSDictionary) into a Class and vice versa.
+
+1. https://github.com/hicala/jekyll-rtd-theme
+
+   Just another documentation theme compatible with GitHub Pages  
+
+   ### Overview
+
+   Just another documentation theme compatible with GitHub Pages
