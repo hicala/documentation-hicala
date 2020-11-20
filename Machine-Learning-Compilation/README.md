@@ -83,3 +83,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
 
 More importantly the applications of ML/DL/AI into industry areas such as Transportation, Medicine/Healthcare etc. will be something I'll watch with keen interest and would love to share the same with you.
 Finally, it is YOUR help I will seek to make it more useful and less boring, so please do suggest/comment/contribute!
+
+1. https://github.com/hicala/awesome-machine-learning
+
+   A curated list of awesome Machine Learning frameworks, libraries and software. 
+
+   ### Overview
+
+   A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
