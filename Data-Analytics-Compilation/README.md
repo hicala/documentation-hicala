@@ -82,3 +82,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    GeoPandas is a project to add support for geographic data to pandas objects. It currently implements GeoSeries and GeoDataFrame types which are subclasses of pandas.Series and pandas.DataFrame respectively. GeoPandas objects can act on shapely geometry objects and perform geometric operations.
 
 GeoPandas geometry operations are cartesian. The coordinate reference system (crs) can be stored as an attribute on an object, and is automatically set when loading from a file. Objects may be transformed to new coordinate systems with the to_crs() method. There is currently no enforcement of like coordinates for operations, but that may change in the future.
+
+1. https://github.com/hicala/SORMAS-Project
+
+   SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of infectious diseases. 
+
+   ### Overview
+
+   SORMAS (Surveillance Outbreak Response Management and Analysis System) is an open source eHealth system - consisting of separate web and mobile apps - that is geared towards optimizing the processes used in monitoring the spread of infectious diseases and responding to outbreak situations.
