@@ -119,3 +119,11 @@ For more information about the high level motivation for Pyro, check out our lau
    ### Overview
 
    ArcGIS Runtime SDK for Android v10.2.6 samples for Android Studio. The repo contains an Android Studio project with multi-project sample app modules that can be run from within the Android Studio IDE.
+
+1. https://github.com/hicala/EasyMapping
+
+   The easiest way to marshall and unmarshall Dictionary representations such as JSON representation 
+
+   ### Overview
+
+   An easy way to unmarshall a Dictionary of attributes (which came from JSON, XML or just a NSDictionary) into a Class and vice versa.
