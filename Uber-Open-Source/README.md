@@ -126,3 +126,11 @@ Repository contains:
     Data analytics models, metrics based on tracing data
     Grafana dashboards
 
+1. https://github.com/hicala/jaeger-client-python
+
+   Jaeger Bindings for Python OpenTracing API 
+
+   ### Overview
+
+   This is a client-side library that can be used to instrument Python apps for distributed trace collection, and to send those traces to Jaeger. See the OpenTracing Python API for additional detail.
+
