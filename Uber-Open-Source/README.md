@@ -134,3 +134,12 @@ Repository contains:
 
    This is a client-side library that can be used to instrument Python apps for distributed trace collection, and to send those traces to Jaeger. See the OpenTracing Python API for additional detail.
 
+1. https://github.com/hicala/jaeger-client-go
+
+   Jaeger Bindings for Go OpenTracing API. 
+
+   ### Overview
+
+   Jaeger Bindings for Go OpenTracing API
+
+Instrumentation library that implements an OpenTracing Go Tracer for Jaeger (https://jaegertracing.io).
