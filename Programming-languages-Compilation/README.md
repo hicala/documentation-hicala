@@ -163,3 +163,13 @@ This repository is containing a summary portfolio of some of data science projec
    ### Overview
 
    Fast, insightful and highly customizable Git history analysis.
+
+1. https://github.com/hicala/personal-website
+
+   Code that'll help you kickstart a personal website that showcases your work as a software developer. 
+
+   ### Overview
+
+   Showcase your software development skills
+
+This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.
