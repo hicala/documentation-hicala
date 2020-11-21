@@ -144,3 +144,14 @@ For more information about the high level motivation for Pyro, check out our lau
 
    This functionality is in beta and is subject to change. The code is provided as-is with no warranties. Beta features are not subject to the support SLA of official GA features.
 
+1. https://github.com/hicala/hicala-data-science-portafolio
+
+   Data Science Portfolio
+
+   ### Overview
+
+   Greetings, I am Hila (Hilario) Calderon.
+
+I love using statistics and machine learning to solve and visualize practical analytics problems by incorporating predictive models. In summary, I am acting as a Data Translator and Data Interpreter to support the Insgiht storytelling from dissimile raw data sets. I'm also really into sailing, 360º video-photography, and 3D modelling, creative writing and teaching. I love sports between other hobbies as well, with the change of seasons.
+
+This repository is containing a summary portfolio of some of data science projects completed by me during my professional career for government, academic, NGO, or for some self-taught, autodidactic, self-educated, self-instructed purposes.
