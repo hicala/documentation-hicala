@@ -80,3 +80,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    ### Overview
 
    PM4Py is a python library that supports (state-of-the-art) process mining algorithms in python. It is completely open source and intended to be used in both academia and industry projects. PM4Py is a product of the Fraunhofer Institute for Applied Information Technology.
+
+1. https://github.com/hicala/pirple-py-data-mining-course
+
+   This repository contains all practices from Pirple's "Data Mining With Python" course. 
+
+   ### Overview
+
+   This repository contains all practices from Pirple's "Data Mining With Python" course.
