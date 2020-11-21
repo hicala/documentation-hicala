@@ -173,3 +173,13 @@ This repository is containing a summary portfolio of some of data science projec
    Showcase your software development skills
 
 This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.
+
+1. https://github.com/hicala/academicpages.github.io
+
+   Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes 
+
+   ### Overview
+
+   A Github Pages template for academic websites. This was forked (then detached) by Stuart Geiger from the Minimal Mistakes Jekyll Theme, which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
