@@ -91,3 +91,13 @@ Finally, it is YOUR help I will seek to make it more useful and less boring, so 
    ### Overview
 
    A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+
+1. https://github.com/hicala/facial-expressions-classifier
+
+   This project covers all the techniques and elements I masterd during the processing on a Machine Learning research. 
+
+   ### Overview
+
+   This project covers all the techniques and elements I masterd during the processing on a Machine Learning research.
+
+The main goal of this project is to classify human facial expressions and depict them to emojis. We build a convolution neural network to recognize facial emotions. Then we will map those emotions with the corresponding catoons, emojis or avatars.
