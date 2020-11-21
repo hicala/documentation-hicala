@@ -135,3 +135,11 @@ For more information about the high level motivation for Pyro, check out our lau
    ### Overview
 
    Just another documentation theme compatible with GitHub Pages
+
+1. https://github.com/hicala/helm-charts
+
+   Helm Charts for Jaeger backend 
+
+   ### Overview
+
+   This functionality is in beta and is subject to change. The code is provided as-is with no warranties. Beta features are not subject to the support SLA of official GA features.
