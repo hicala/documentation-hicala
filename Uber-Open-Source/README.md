@@ -163,3 +163,11 @@ Instrumentation library that implements an OpenTracing Go Tracer for Jaeger (htt
 This job parses all traces on a given day, based on UTC. By default, it processes the current day, but other days can be explicitly specified.
 
 This repository is based on zipkin-dependencies.
+
+1. https://github.com/hicala/jaeger-client-cpp
+
+   C++ OpenTracing binding for Jaeger 
+
+   ### Overview
+
+   Jaeger SDK with OpenTracing API for C++ binding.
