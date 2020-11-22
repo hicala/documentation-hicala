@@ -151,3 +151,15 @@ Instrumentation library that implements an OpenTracing Go Tracer for Jaeger (htt
    ### Overview
 
    This project is designed to do basic smoke and performance testing of JaegerTracing. The primary target for these tests is OpenShift, where they can be run using the Jenkinsfile in this directory.
+
+1. https://github.com/hicala/spark-dependencies
+
+   Spark job for dependency links 
+
+   ### Overview
+
+   This is a Spark job that collects spans from storage, analyze links between services, and stores them for later presentation in the UI. Note that it is needed for the production deployment. all-in-one distribution does not need this job.
+
+This job parses all traces on a given day, based on UTC. By default, it processes the current day, but other days can be explicitly specified.
+
+This repository is based on zipkin-dependencies.
