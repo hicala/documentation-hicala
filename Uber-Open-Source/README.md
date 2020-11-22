@@ -143,3 +143,11 @@ Repository contains:
    Jaeger Bindings for Go OpenTracing API
 
 Instrumentation library that implements an OpenTracing Go Tracer for Jaeger (https://jaegertracing.io).
+
+1. https://github.com/hicala/jaeger-performance
+
+   Home of the Jaeger Performance tests 
+
+   ### Overview
+
+   This project is designed to do basic smoke and performance testing of JaegerTracing. The primary target for these tests is OpenShift, where they can be run using the Jenkinsfile in this directory.
