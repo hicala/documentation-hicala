@@ -214,3 +214,11 @@ Prior to building the new website, I was using the Lanyon theme. I have written 
    ### Overview
 
    Its an eCommerce app inspired from Amazon , big Basket,Grofers,Flipkart Etc
+
+1. https://github.com/hicala/make-a-map-geopandas
+
+   Tutorial on how to make a choropleth map using Geopandas and Matplotlib in Python. 
+
+   ### Overview
+
+   This is a tutorial on how to make a choropleth map using Geopandas and Matplotlib in Python. The full write-up tutorial is here on Medium. By the end of this walk through (or by simply downloading the repo and running the code), you'll be able to make a publisher-ready map like this using Python and Geopandas.
