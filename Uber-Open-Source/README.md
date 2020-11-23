@@ -191,3 +191,11 @@ Fiber is a Python distributed computing library for modern computer clusters.
     It it reliable. Fiber has built-in error handling when you are running a pool of workers. Users can focus on writing the actual application code instead of dealing with crashed workers.
 
 Originally, it was developed to power large scale parallel scientific computation projects like POET and it has been used to power similar projects within Uber.
+
+1. https://github.com/hicala/jaeger-lib
+
+   A collection of shared infrastructure libraries used by different components of Jaeger. 
+
+   ### Overview
+
+   A collection of shared infrastructure libraries used by different components of Jaeger backend and jaeger-client-go. This library is not intended to be used standalone, and provides no guarantees of backwards compatibility.
