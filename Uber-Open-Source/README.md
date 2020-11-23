@@ -225,3 +225,13 @@ This repo contains the source code of AresDB and debug UI.
    ### Overview
 
    This is a Vert.x starter project (from http://start.vertx.io/), with just enough code to include Jaeger tracer and report a span.
+
+1. https://github.com/hicala/jaeger-client-node
+
+   Jaeger Bindings for OpenTracing API for Node.js 
+
+   ### Overview
+
+   This is Jaeger's client side instrumentation library for Node.js that implements Javascript OpenTracing API 1.0.
+
+Note that this library is not designed to run in the browser, only in the Node.js-backend servers. For browser-only version, see https://github.com/jaegertracing/jaeger-client-javascript.
