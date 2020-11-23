@@ -199,3 +199,13 @@ Originally, it was developed to power large scale parallel scientific computatio
    ### Overview
 
    A collection of shared infrastructure libraries used by different components of Jaeger backend and jaeger-client-go. This library is not intended to be used standalone, and provides no guarantees of backwards compatibility.
+
+1. https://github.com/hicala/aresdb
+
+   A GPU-powered real-time analytics storage and query engine. 
+
+   ### Overview
+
+   AresDB is a GPU-powered real-time analytics storage and query engine. It features low query latency, high data freshness and highly efficient in-memory and on disk storage management. Please see AresDB's features, architecture design described in the Uber Engineering Blog.
+
+This repo contains the source code of AresDB and debug UI.
