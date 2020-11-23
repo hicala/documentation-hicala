@@ -88,3 +88,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    ### Overview
 
    This repository contains all practices from Pirple's "Data Mining With Python" course.
+
+1. https://github.com/hicala/APIs-python-data-mining
+
+   This repo explores the many ways to interact with twitter data through the twitter API. Specifically, there are three different methods explored here. 
+
+   ### Overview
+
+   Twitter streaming API access code
