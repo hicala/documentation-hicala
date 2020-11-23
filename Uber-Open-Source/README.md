@@ -209,3 +209,11 @@ Originally, it was developed to power large scale parallel scientific computatio
    AresDB is a GPU-powered real-time analytics storage and query engine. It features low query latency, high data freshness and highly efficient in-memory and on disk storage management. Please see AresDB's features, architecture design described in the Uber Engineering Blog.
 
 This repo contains the source code of AresDB and debug UI.
+
+1. https://github.com/hicala/docker-protobuf
+
+   An all-inclusive protoc Docker image for the Jaeger project 
+
+   ### Overview
+
+   A lightweight protoc Docker image, published as jaegertracing/protobuf to Docker Hub, with all dependencies built-in, to generate code in multiple languages. Forked from https://github.com/TheThingsIndustries/docker-protobuf.
