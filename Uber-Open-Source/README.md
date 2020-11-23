@@ -171,3 +171,23 @@ This repository is based on zipkin-dependencies.
    ### Overview
 
    Jaeger SDK with OpenTracing API for C++ binding.
+
+1. https://github.com/hicala/fiber
+
+   Distributed Computing for AI Made Simple 
+
+   ### Overview
+
+   Distributed Computing for AI Made Simple
+
+This project is experimental and the APIs are not considered stable.
+
+Fiber is a Python distributed computing library for modern computer clusters.
+
+    It is easy to use. Fiber allows you to write programs that run on a computer cluster level without the need to dive into the details of computer cluster.
+    It is easy to learn. Fiber provides the same API as Python's standard multiprocessing library that you are familiar with. If you know how to use multiprocessing, you can program a computer cluster with Fiber.
+    It is fast. Fiber's communication backbone is built on top of Nanomsg which is a high-performance asynchronous messaging library to allow fast and reliable communication.
+    It doesn't need deployment. You run it as the same way as running a normal application on a computer cluster and Fiber handles the rest for you.
+    It it reliable. Fiber has built-in error handling when you are running a pool of workers. Users can focus on writing the actual application code instead of dealing with crashed workers.
+
+Originally, it was developed to power large scale parallel scientific computation projects like POET and it has been used to power similar projects within Uber.
