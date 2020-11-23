@@ -217,3 +217,11 @@ This repo contains the source code of AresDB and debug UI.
    ### Overview
 
    A lightweight protoc Docker image, published as jaegertracing/protobuf to Docker Hub, with all dependencies built-in, to generate code in multiple languages. Forked from https://github.com/TheThingsIndustries/docker-protobuf.
+
+1. https://github.com/hicala/vertx-create-span
+
+   Demo application used in e2e tests for the Jaeger Operator 
+
+   ### Overview
+
+   This is a Vert.x starter project (from http://start.vertx.io/), with just enough code to include Jaeger tracer and report a span.
