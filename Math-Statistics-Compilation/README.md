@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Math & Statistics Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Math-Statistics-Compilation.jpg)
-
 # Math & Statistics Compilation
 
 1. https://github.com/hicala/news-classifier
