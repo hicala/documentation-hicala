@@ -235,3 +235,11 @@ This repo contains the source code of AresDB and debug UI.
    This is Jaeger's client side instrumentation library for Node.js that implements Javascript OpenTracing API 1.0.
 
 Note that this library is not designed to run in the browser, only in the Node.js-backend servers. For browser-only version, see https://github.com/jaegertracing/jaeger-client-javascript.
+
+1. https://github.com/hicala/jaeger-idl
+
+   A set of shared data model definitions used by Jaeger components. 
+
+   ### Overview
+
+   This repository does not publish the generated code, but it does run Thrift and protoc generators as part of the CI to verify all IDL files. See the Makefile for example. In particular, the classes for different languages can be compiled using the jaegertracing/protobuf Docker image (see README).
