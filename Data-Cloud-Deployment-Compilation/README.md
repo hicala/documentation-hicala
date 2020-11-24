@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Data Cloud Deployment Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Data-Cloud-Deployment-Compilation.jpg)
-
 # Data Cloud Deployment Compilation
 
 1. https://github.com/hicala/news-classifier
