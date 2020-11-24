@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Programming languages Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Programming-languages-Compilation.jpg)
-
 # Programming languages Compilation
 
 1. https://github.com/hicala/news-classifier
@@ -223,4 +221,3 @@ Prior to building the new website, I was using the Lanyon theme. I have written 
 
    This is a tutorial on how to make a choropleth map using Geopandas and Matplotlib in Python. The full write-up tutorial is here on Medium. By the end of this walk through (or by simply downloading the repo and running the code), you'll be able to make a publisher-ready map like this using Python and Geopandas.
 
-   
