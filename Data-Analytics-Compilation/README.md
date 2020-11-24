@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Data Analytics Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Data-Analytics-Compilation.jpg)
-
 # Data Analytics Compilation
 
 1. https://github.com/hicala/news-classifier
