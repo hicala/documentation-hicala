@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Machine Learning Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Machine-Learning-Compilation.jpg)
-
 # Machine Learning Compilation
 
 1. https://github.com/hicala/news-classifier
