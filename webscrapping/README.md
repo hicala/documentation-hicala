@@ -1,7 +1,5 @@
 [Back to documentation-hicala]( https://github.com/hicala/documentation-hicala)
 
-![Data Visualization Compilation](https://github.com/hicala/documentation-hicala/blob/main/images/Data-Visualization-Compilation.jpg)
-
 # Web scrapping Repository
 
 1. https://github.com/hicala/scrapy
