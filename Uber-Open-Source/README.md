@@ -271,3 +271,19 @@ Jaeger ecosystem also provides a Helm chart as an alternative way of deploying J
    ### Overview
 
    This repository was created from the internal Uber repository used to run Flink jobs. It was created by stripping away Uber specific components, and hasn't been tested in it's current form. It is intended to serve as a starting point for a more generic OSS release.
+
+1. https://github.com/hicala/jaeger-vscode
+
+   VSCode extension for Jaeger 
+
+   ### Overview
+
+   Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system released as open source by Uber Technologies. It is used for monitoring and troubleshooting microservices-based distributed systems, including:
+
+    Distributed context propagation
+    Distributed transaction monitoring
+    Root cause analysis
+    Service dependency analysis
+    Performance / latency optimization
+
+Once a Jaeger tracing system has been started, any applications (services) that are being tested within the IDE can report their tracing information to Jaeger through the use of an OpenTracing compliant tracer or using the emerging OpenTelemetry clients with Jaeger exporter.
