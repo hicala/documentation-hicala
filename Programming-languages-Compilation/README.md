@@ -221,3 +221,10 @@ Prior to building the new website, I was using the Lanyon theme. I have written 
 
    This is a tutorial on how to make a choropleth map using Geopandas and Matplotlib in Python. The full write-up tutorial is here on Medium. By the end of this walk through (or by simply downloading the repo and running the code), you'll be able to make a publisher-ready map like this using Python and Geopandas.
 
+1. https://github.com/hicala/docker-thrift
+
+   ### Overview
+
+   This is repository is fork of ahawkins/docker-thrift that does not seem to be actively maintained - see ahawkins/docker-thrift/pull/22.
+
+The new versions, starting with 0.13 are published as jaegertracing/thrift. The older versions are available from the official thrift organization e.g. docker pull thrift:0.9.2.
