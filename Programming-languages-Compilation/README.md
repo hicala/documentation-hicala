@@ -246,3 +246,11 @@ This tool does generally the same thing as https://github.com/briangkatz/gps-pho
    ### Overview
 
    MapIgniter2 is a geocms that uses Laravel 5, OpenLayers 3, and AngularJS.
+
+1. https://github.com/hicala/DataScience365
+
+   DataScience365 
+
+   ### Overview
+
+   It is about exploring the world of data science and its concept.
