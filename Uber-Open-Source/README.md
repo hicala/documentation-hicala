@@ -255,3 +255,12 @@ Note that this library is not designed to run in the browser, only in the Node.j
 The Jaeger Operator provides a CLI to generate Kubernetes manifests from the Jaeger CR. This can be considered as an alternative source of plain Kubernetes manifest files.
 
 Jaeger ecosystem also provides a Helm chart as an alternative way of deploying Jaeger.
+
+1. https://github.com/hicala/jaeger-opentelemetry-collector
+
+   Jaeger OpenTelemetry Collector is now in the main Jaeger repository 
+
+   ### Overview
+
+   This repository is deprecated! All code has been migrated to the main Jaeger repository.
+
