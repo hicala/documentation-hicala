@@ -243,3 +243,15 @@ Note that this library is not designed to run in the browser, only in the Node.j
    ### Overview
 
    This repository does not publish the generated code, but it does run Thrift and protoc generators as part of the CI to verify all IDL files. See the Makefile for example. In particular, the classes for different languages can be compiled using the jaegertracing/protobuf Docker image (see README).
+
+1. https://github.com/hicala/jaeger-kubernetes
+
+   Support for deploying Jaeger into Kubernetes 
+
+   ### Overview
+
+   The recommended way of installing and managing Jaeger in a production Kubernetes cluster is via the Jaeger Operator.
+
+The Jaeger Operator provides a CLI to generate Kubernetes manifests from the Jaeger CR. This can be considered as an alternative source of plain Kubernetes manifest files.
+
+Jaeger ecosystem also provides a Helm chart as an alternative way of deploying Jaeger.
