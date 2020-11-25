@@ -238,3 +238,11 @@ The new versions, starting with 0.13 are published as jaegertracing/thrift. The 
    Simple tool to convert georeferenced images into a collection of points in GeoJSON
 
 This tool does generally the same thing as https://github.com/briangkatz/gps-photos-to-geojson, but it does not rely on huge 3rd party tools like QGIS. All you have to install are the following dependencies: Pillow and geojson.
+
+1. https://github.com/hicala/mapigniter2
+
+   MapIgniter is a GeoCMS that allows a user to publish geographic information 
+
+   ### Overview
+
+   MapIgniter2 is a geocms that uses Laravel 5, OpenLayers 3, and AngularJS.

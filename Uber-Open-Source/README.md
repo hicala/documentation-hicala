@@ -287,3 +287,4 @@ Jaeger ecosystem also provides a Helm chart as an alternative way of deploying J
     Performance / latency optimization
 
 Once a Jaeger tracing system has been started, any applications (services) that are being tested within the IDE can report their tracing information to Jaeger through the use of an OpenTracing compliant tracer or using the emerging OpenTelemetry clients with Jaeger exporter.
+
