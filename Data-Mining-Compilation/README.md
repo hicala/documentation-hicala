@@ -94,3 +94,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    ### Overview
 
    Twitter streaming API access code
+
+1. https://github.com/hicala/jaeger-analytics-flink
+
+   Big data analytics for Jaeger using Apache Flink 
+
+   ### Overview
+
+   This repository was created from the internal Uber repository used to run Flink jobs. It was created by stripping away Uber specific components, and hasn't been tested in it's current form. It is intended to serve as a starting point for a more generic OSS release.
