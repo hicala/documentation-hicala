@@ -118,3 +118,13 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    ### Overview
 
    This repository includes teaching material for a Data Mining and Machine Learning class. The class is offered in Python
+
+1. https://github.com/hicala/data-science-portfolio
+
+   Portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
+
+   ### Overview
+
+   Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+
+For a more visually pleasant experience for browsing the portfolio, check out sajalsharma.com
