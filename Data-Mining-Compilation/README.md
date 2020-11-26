@@ -128,3 +128,17 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
 For a more visually pleasant experience for browsing the portfolio, check out sajalsharma.com
+
+1. https://github.com/hicala/tdm_course
+
+   In this repository you will find the Python and other associated files used in the practical guide of the "Introduction to Text and Data Mining" course. 
+
+   ### Overview
+
+   Introduction to Text and Data Mining
+
+This is an introductory course primarily intended for research support administrative staff, but others such as researchers, librarians and repository managers may also find this introductory course useful.
+
+In this Github page you will not be able to find the course - this is available here.
+
+Nonetheless, here you will be able to find and download locally all the Python files relating to the practical activities of the course and more specifically the "Text mining practical activities using the CORE API".
