@@ -106,3 +106,11 @@ For a more visually pleasant experience for browsing the portfolio, check out sa
    ### Overview
 
    This project aims to make it easier for HR/people analysts to compare the representation of different demographics in their company to the communities they have a presence in. It also helps identify if a company is getting the application numbers from different groups they would expect based on the same criteria.
+
+1. https://github.com/hicala/HR_Analytics
+
+   ### Overview
+
+   An employee is an asset to the company. They define the future and present of the company. So, it is obvious that a company invest a huge attention, money and care for its employee to make them not leave. People Analytics is simply the way of giving answer to why employee leave the employers through the data.
+
+Here is my effort on IBM dataset, which is inspired from many data masters.
