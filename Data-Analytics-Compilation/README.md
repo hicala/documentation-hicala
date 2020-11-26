@@ -98,3 +98,11 @@ GeoPandas geometry operations are cartesian. The coordinate reference system (cr
    Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
 For a more visually pleasant experience for browsing the portfolio, check out sajalsharma.com
+
+1. https://github.com/hicala/diversity-across-geography
+
+   A project seeking it to make it easier for companies to compare the representation of different groups in a company workforce to the local labor force across geography. I am fairly new to this, so let me know if I've set up anything incorrectly! 
+
+   ### Overview
+
+   This project aims to make it easier for HR/people analysts to compare the representation of different demographics in their company to the communities they have a presence in. It also helps identify if a company is getting the application numbers from different groups they would expect based on the same criteria.
