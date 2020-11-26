@@ -110,3 +110,11 @@ The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/
    ### Overview
 
    It is about exploring the world of data science and its concept.
+
+1. https://github.com/hicala/Data-Mining-and-Machine-Learning-with-Python
+
+   This repository includes teaching material for a Data Mining and Machine Learning class. The class is offered in Python 
+
+   ### Overview
+
+   This repository includes teaching material for a Data Mining and Machine Learning class. The class is offered in Python
