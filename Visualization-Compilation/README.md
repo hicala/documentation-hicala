@@ -70,3 +70,13 @@ The data I used came from Live Piracy & Armed Robbery Report 2020. Reference: ht
 I am using Beautiful Soup for the this Python app. Beautiful Soup is a Python library for parsing data out of HTML and XML files (aka webpages). It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 
 The data I used came from Atlanta Hawks Roster. Reference: https://www.espn.com/nba/team/roster/_/name/atl/atlanta-hawks
+
+1. https://github.com/hicala/data-science-portfolio
+
+   Portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
+
+   ### Overview
+
+   Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+
+For a more visually pleasant experience for browsing the portfolio, check out sajalsharma.com
