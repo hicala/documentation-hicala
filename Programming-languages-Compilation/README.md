@@ -263,3 +263,10 @@ This tool does generally the same thing as https://github.com/briangkatz/gps-pho
 
    GeoFirebase is a library to help you query Firebase Real-Time Database based on Geolocations on Android
 
+1. https://github.com/hicala/GeoData
+
+   How to work with geographic locations and firebase 
+
+   ### Overview
+
+   Geofire is a great project, which simplify the georeferencing work, but I don't feel using a library for my data structure is ok. For creating this I have base heavily in Geofire data structure
