@@ -280,3 +280,11 @@ This tool does generally the same thing as https://github.com/briangkatz/gps-pho
    Unique Under Construction Templates
 
 Sometimes a redesign might be the only way to get around an old theme, compensating missing features. Leaving website visitors unattended with a black 404 or not found page while your designer is on the project can be devastating. An under construction page and even coming soon pages can come to your rescue while going for a regular maintenance.
+
+1. https://github.com/hicala/lanyon-plus
+
+   Based on lanyon - A content-first, sliding sidebar theme for Jekyll. Demo at 
+
+   ### Overview
+
+   Based on Jekyll theme: Lanyon by Mark Otto
