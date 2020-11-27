@@ -288,3 +288,19 @@ Sometimes a redesign might be the only way to get around an old theme, compensat
    ### Overview
 
    Based on Jekyll theme: Lanyon by Mark Otto
+
+1. https://github.com/hicala/theta
+
+   [Python/Numpy/Statistics/Algebra/DataMining] Applying Python, Data Mining, advanced mathematics, algebra and statistics to economic variables. 
+
+   ### Overview
+
+   [Python/Numpy/Statistics/Algebra/DataMining] Applying Python, Data Mining, advanced mathematics, algebra and statistics to economic variables. 
+
+1. https://github.com/hicala/MATLAB
+
+   MATLAB
+
+   ### Overview
+
+   MATLAB
