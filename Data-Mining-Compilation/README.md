@@ -142,3 +142,11 @@ This is an introductory course primarily intended for research support administr
 In this Github page you will not be able to find the course - this is available here.
 
 Nonetheless, here you will be able to find and download locally all the Python files relating to the practical activities of the course and more specifically the "Text mining practical activities using the CORE API".
+
+1. https://github.com/hicala/mining
+
+   programs for data mining 
+
+   ### Overview
+
+   sample programs for data mining
