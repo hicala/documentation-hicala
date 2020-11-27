@@ -254,3 +254,12 @@ This tool does generally the same thing as https://github.com/briangkatz/gps-pho
    ### Overview
 
    It is about exploring the world of data science and its concept.
+
+1. https://github.com/hicala/GeoFirebase
+
+   A simple demos of how to connect firebase and google maps 
+
+   ### Overview
+
+   GeoFirebase is a library to help you query Firebase Real-Time Database based on Geolocations on Android
+
